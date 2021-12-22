@@ -1,0 +1,44 @@
+body{
+  background: #fff url("Tesla coil.jpg") no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size:cover;
+  background-size: cover;
+}
+
+h1, h2{
+  padding-left: 40%;
+  color: white;
+}
+
+.timeline,.timelines{
+  padding-left: 42%;
+}
+
+.dob, .ocup{
+  padding-left: 37%;
+}
+
+img{
+ border-radius: 35px;
+ display: block;
+  margin-left: 39%;
+  margin-right: 73%;
+}
+
+p, li{
+  color: white;
+}
+.intro{
+  padding-left: 20%;
+  padding-right: 16%;
+}
+.introduction, .main{
+  border: transparent;
+  background-color: rgb(43, 7, 7);
+}
+
+
+
+
+
